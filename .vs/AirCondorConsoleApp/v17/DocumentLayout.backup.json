@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\bookingpassengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\bookingpassengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|c:\\users\\aliaksandr\\source\\repos\\aircondorconsoleapp\\aircondorconsoleapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59834EC5-B9A6-42A0-958B-C47D994569BC}|AirCondorConsoleApp\\AirCondorConsoleApp.csproj|solutionrelative:aircondorconsoleapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\ReportService.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\ReportService.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAowDIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:10:29.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\TicketService.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAowCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:04:02.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingPassengerService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\BookingPassengerService.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\BookingPassengerService.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\BookingPassengerService.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\BookingPassengerService.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:58:34.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassengerService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\PassengerService.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\PassengerService.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\PassengerService.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\PassengerService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowG0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:53:43.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\BookingService.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\BookingService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:49:54.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\FlightService.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\FlightService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:49:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\CustomerService.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:44:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\Database.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Services\\Database.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Services\\Database.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Services\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:43:37.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "AirCondorConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Aliaksandr\\source\\repos\\AirCondorConsoleApp\\AirCondorConsoleApp\\Program.cs",
+              "RelativeToolTip": "AirCondorConsoleApp\\Program.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:40:29.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
